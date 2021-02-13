@@ -2,4 +2,5 @@
 CRUD app with authentication system using token based authentication system.
 Filtering feature using query input.
 Images files management.
+Dokerized application.
 
